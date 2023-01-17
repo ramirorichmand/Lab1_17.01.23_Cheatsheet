@@ -1,6 +1,6 @@
 # lab1701_cheatsheet
 
-*KEY COMMANDS*
+**KEY COMMANDS**
 
 cd [folder]	Change directory e.g. cd Documents
 
@@ -17,6 +17,8 @@ ls	Short listing
 open [file]	Opens a file ( as if double clicked )
 
 clear	Clears the screen
+
+**FILE MANAGEMENT**
 
 touch [file]	Create a new file
 
@@ -44,8 +46,11 @@ mv [file] [new filename]	Move/Rename, e.g. mv file1.ad /tmp
 
 pbcopy < [file]	Copies file contents to clipboard
 
+**DIRECTORY MANAGEMENT**
 
 mkdir [dir]	Create new directory
+
+**SEARCH**
 
 find [dir] -name [search_pattern]	Search for files, e.g. find /Users -name "file.txt"
 
