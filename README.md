@@ -2,12 +2,19 @@
 
 
 cd [folder]	Change directory e.g. cd Documents
+
 cd	Home directory
+
 cd ~	Home directory
+
 cd /	Root of drive
+
 cd -	Previous directory
+
 ls	Short listing
+
 open [file]	Opens a file ( as if double clicked )
+
 clear	Clears the screen
 
 touch [file]	Create a new file
